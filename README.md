@@ -56,4 +56,5 @@ Para utilizar Guitarla en tu entorno local, sigue estos pasos:
 4. Inicia el servidor de desarrollo: `npm run dev`
 5. Abre tu navegador y visita: `http://localhost:5173`
 
-¡Listo! Ahora puedes explorar el frontend de Guitarla y disfrutar de la experiencia de compra de guitarras en línea, puedes ver el proyecto deplyado aqui `https://guitar-la-vue.netlify.app/`.
+¡Listo! Ahora puedes explorar el frontend de Guitarla y disfrutar de la experiencia de compra de guitarras en línea.
+Para ver el sitio en funcionamiento, visita [https://guitar-la-vue.netlify.app/](https://guitar-la-vue.netlify.app/).
